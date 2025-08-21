@@ -47,3 +47,5 @@ Avvia il programma:
 
 python flux_AnimateDiff.py
 
+scarica i modelli su civitai.com: https://civitai.com/; elencati qui: nel file leggimi.txt
+
