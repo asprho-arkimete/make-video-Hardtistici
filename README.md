@@ -50,3 +50,5 @@ python flux_AnimateDiff.py
 scarica i modelli su civitai.com: https://civitai.com/; elencati qui: nel file leggimi.txt
 https://github.com/asprho-arkimete/make-video-Hardtistici/blob/main/leggimi.txt
 
+estrai archivio zippato pose breastfeeding.rar per qualche foto esempio di qualche possibile posa img2img o tet to image
+
