@@ -48,4 +48,5 @@ Avvia il programma:
 python flux_AnimateDiff.py
 
 scarica i modelli su civitai.com: https://civitai.com/; elencati qui: nel file leggimi.txt
+https://github.com/asprho-arkimete/make-video-Hardtistici/blob/main/leggimi.txt
 
